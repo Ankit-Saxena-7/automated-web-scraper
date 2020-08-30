@@ -1,0 +1,1 @@
+uvicorn server2:vApplication --port 8888

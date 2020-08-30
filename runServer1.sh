@@ -1,0 +1,1 @@
+gunicorn server1:vApplication --bind 127.0.0.1:8888
